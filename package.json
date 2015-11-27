@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-ment",
+  "verison": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "express": "^4.13.3",
+    "pg": "^4.4.1",
+    "express-session": "^1.11.3",
+    "body-parser": "^1.7.0",
+    "angular": "~1.4.8"
+  }
+}
